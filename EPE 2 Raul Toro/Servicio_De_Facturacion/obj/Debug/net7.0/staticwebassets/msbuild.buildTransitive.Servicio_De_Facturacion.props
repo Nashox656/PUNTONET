@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Servicio_De_Facturacion.props" />
+</Project>
